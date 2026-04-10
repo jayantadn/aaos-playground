@@ -12,5 +12,8 @@ if ! grep -Fxq "export PATH=\$HOME/Tools/repo:\$PATH" ~/.bashrc; then
 fi
 source ~/.bashrc
 
+########################################
+# Install other packages
+########################################
 
 
